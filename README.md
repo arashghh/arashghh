@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arashghh
 - 👀 I’m interested in Front-end
-- 🌱 I’m currently learning html,css,javascript
+- 🌱 I’m currently Front-end
 - 💞️ I’m looking to collaborate on Front-end projects
 - 📫 How to reach me ...
 
