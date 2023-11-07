@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arash Ghafouri
 - 👀 I’m interested in Front-end
-- 🌱 I’m currently Front-end
+- 🌱 I’m currently Front-end Developer
 - 💞️ I’m looking to collaborate on Front-end projects
 - 📫 How to reach me ...
 
